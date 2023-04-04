@@ -29,13 +29,18 @@
   <a href="#"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>
+  
 </p>
   
 <div>  
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Vilca&show_icons=true&theme=radical&ring_color=08FDD8&title_color=08FDD8" height="192px" style="max-width:100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cesar-Vilca&show_icons=true&theme=radical&hide_border=true&ring_color=08FDD8&title_color=08FDD8" height="180px" >
   </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Vilca&layout=compact&theme=radical&ring_color=08FDD8&title_color=08FDD8" height="192px"  style="max-width:100%">   
+  <a max-width="50%" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Vilca&layout=compact&theme=radical&hide_border=true&ring_color=08FDD8&title_color=08FDD8" height="180px" >   
   </a>
+  
+
+  
+   
 </div>
