@@ -26,7 +26,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img src="https://img.icons8.com/color-glass/48/000000/instagram-new.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/cesar-vilca-pino-48ab55276/"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img src="https://img.icons8.com/color/48/null/gmail--v1.png"/></a>
   
