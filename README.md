@@ -16,7 +16,7 @@
    <h1 align="center" style="font-family: 'Fira Code', monospace; color:#08FDD8;">Hi there, I'm Cesar Vilca 👋</h1>
   </p>
 <p align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=08FDD8&vCenter=true&width=435&lines=Full+Stack+Web+Developer+;Always+Learning+New+Things+with+a+%E2%98%95%EF%B8%8F+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=08FDD8&vCenter=true&width=435&lines=A+Full+Stack+Web+Developer+;Always+Learning+New+Things+with+a+%E2%98%95%EF%B8%8F+" alt="Typing SVG" /></a>
   </p>
   
   <p align="center">
